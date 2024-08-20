@@ -38,6 +38,7 @@
 ## 编译 comiler
 - 请安装`cmake` 3.23及以上版本
 - please install `cmake` that version is greather `3.22`
+![](./doc/vscode_tutorial.gif)
 
 
 ## 读取 toml文件代码
