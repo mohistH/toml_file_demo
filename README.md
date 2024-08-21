@@ -28,6 +28,7 @@
 .
 ├─cmake			# 存放公用的cmake的一些函数和宏的封装
 ├─CommonSource		# 存放不同项目之间可能公用的代码
+├─doc 			# 存放readme中使用的图片资源
 ├─example_read		# 读取toml文件代码
 │  ├─exam_file		# 存放 example.toml文件
 │  └─src		# 存放读取toml文件范例代码
@@ -39,6 +40,8 @@
 - 请安装`cmake` 3.23及以上版本
 - please install `cmake` that version is greather `3.22`
 - 编译演示 (demo to compiler) 
+
+### gif to display how to use vs code to compiler the project
 ![](./doc/vscode_tutorial.gif)
 
 
