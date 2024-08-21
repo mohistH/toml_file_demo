@@ -39,7 +39,8 @@
 ## 编译 comiler
 - 请安装`cmake` 3.23及以上版本
 - please install `cmake` that version is greather `3.22`
-- 编译演示 (demo to compiler) 
+- 编译演示 (demo to compiler)
+- ![](./doc/vscode_tutorial.gif)
 
 ### gif to display how to use vs code to compiler the project
 ![](./doc/vscode_tutorial.gif)
