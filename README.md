@@ -39,7 +39,7 @@
 - 请安装`cmake` 3.23及以上版本
 - please install `cmake` that version is greather `3.22`
 - 编译演示 (demo to compiler) 
-- ![](./doc/vscode_tutorial.gif)
+![](./doc/vscode_tutorial.gif)
 
 
 ## 读取 toml文件代码
